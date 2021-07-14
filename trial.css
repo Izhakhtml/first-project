@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(211, 164, 77);
+}
+ul{
+  background-color: rgb(192, 181, 181);
+  padding: 20px;
+}
+li{
+    display: inline-block;
+    list-style-type: none;
+    position:fixed;
+    
+    color:olive;}
+
+img{
+    width: 250px;
+    height:300px;
+    border-radius: 45%;
+    box-shadow:-7px -7px rgb(138, 132, 132);
+}
+main{
+    border: 2px black solid;
+    padding: 5px;
+    font-size:25px;
+}
